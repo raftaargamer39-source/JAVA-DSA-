@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class functionstudent {
+public class functions {
     public static void Sum(){
         Scanner sc= new Scanner(System.in);
         System.out.println("enter your number");

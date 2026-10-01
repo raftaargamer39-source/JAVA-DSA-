@@ -1,7 +1,7 @@
 
 public class basic{
     public static void main(String[] args) {
-         if (5%2==0){
+         if (4%2==0){
             System.out.println("even"); }
         else{
             System.out.println("odd");}
